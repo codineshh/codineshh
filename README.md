@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on open source code
-- 📫 How to reach 
+- 📫 contact me dineshgora947@gmail.com
 
 <!---
 codineshh/codineshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
